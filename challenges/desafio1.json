@@ -1,6 +1,6 @@
 {
-  "tabela_pessoas_usuarias": "nome-da-tabela-de-pessoas-usuárias",
-  "coluna_pessoas_usuarias": "nome-da-coluna-da-pessoa-usuária",
+  "tabela_pessoas_usuarias": "users",
+  "coluna_pessoas_usuarias": "user_name",
   "tabela_plano": "nome-da-tabela-do-plano",
   "coluna_plano": "nome-da-coluna-do-plano",
   "tabela_historico_de_reproducoes": "nome-da-tabela-do-histórico-de-reproduções",
