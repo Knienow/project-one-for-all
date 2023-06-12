@@ -7,7 +7,7 @@ USE SpotifyClone;
 CREATE TABLE plans(
   plan_id INT NOT NULL AUTO_INCREMENT,
   plan_name VARCHAR(15) NOT NULL,
-  plan_value DOUBLE NOT NULL,
+  plan_value DECIMAL(11,2) NOT NULL,
   CONSTRAINT PRIMARY KEY(plan_id)
 );
 
